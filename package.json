@@ -5,7 +5,7 @@
   "author": "darwinsubramaniam@gmail.com",
   "private": false,
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/udsoft/nestjs-orientdb.git",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
