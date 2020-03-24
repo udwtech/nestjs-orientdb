@@ -1,3 +1,3 @@
-import { Inject } from "@nestjs/common";
+import { Inject } from '@nestjs/common';
 
-export const InjectConnection = (name?:string) => Inject(name) 
+export const InjectConnection = (name?: string) => Inject(name);
