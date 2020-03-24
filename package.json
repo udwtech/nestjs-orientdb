@@ -1,6 +1,6 @@
 {
   "name": "@udw/nestjs-orientdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nestjs module for orientdb",
   "author": "darwinsubramaniam@gmail.com",
   "private": false,
